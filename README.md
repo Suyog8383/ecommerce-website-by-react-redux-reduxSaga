@@ -1,5 +1,6 @@
 # Ecommerce-website-by-react-redux-reduxSaga
 # About the Project :
+![Ecommerce React Redux Saga](https://user-images.githubusercontent.com/92072200/218269327-efa793a6-a285-4dce-83d2-40e9cc45e39c.gif)
 # Functionality =
 - Add product into cart.
 - Add product into wishlist.
@@ -10,9 +11,9 @@
 - Clear all cart.
 - Clear all wishlist.
 # Design
-![Screenshot (709)](https://user-images.githubusercontent.com/92072200/218084397-a328b020-0b8d-4f89-8b7b-a07fe7b786e0.png)
-![Screenshot (711)](https://user-images.githubusercontent.com/92072200/218084359-0cb3d694-d437-45e0-bf18-fff1e3a591db.png)
-![Screenshot (710)](https://user-images.githubusercontent.com/92072200/218084376-3fc62bee-6d4e-4818-9cf5-1732210007b7.png)
+![Screenshot (721)](https://user-images.githubusercontent.com/92072200/218269271-bb47d01c-53dd-40f8-ae69-97965f503dfd.png)
+![Screenshot (719)](https://user-images.githubusercontent.com/92072200/218269263-5a2b7fd8-e962-42e4-8e2c-956cc9edd06d.png)
+![Screenshot (720)](https://user-images.githubusercontent.com/92072200/218269266-d3e26d4b-cd16-4d1e-8ff7-3e335286c51b.png)
 # Build With
 - React
 - Redux
@@ -22,4 +23,5 @@ https://ecommerece-website-by-react-reduxsaga.netlify.app/
 # Contact
 Suyog Nagawade -
 suyognagawade8383@gmail.com
+
 
